@@ -1,0 +1,13 @@
+1 Divyam core 2 50000
+11 Devansh vfx 6 70000
+4 Mayank business 4 60000
+12 Vivek IT 3 55000
+70 Jasjeet management 10 80000
+69 Jai finance 4 90000
+3 Shyamal sales 6 100000 
+58 Abhishek  AI_reseacher  11 200000
+-1
+1
+4
+12
+-1
